@@ -1,0 +1,12 @@
+H:\Dilse Foundation new design\DilSeRedesign\DilSeRedesign\bin\DilSeRedesign.dll.config
+H:\Dilse Foundation new design\DilSeRedesign\DilSeRedesign\bin\DilSeRedesign.dll
+H:\Dilse Foundation new design\DilSeRedesign\DilSeRedesign\bin\DilSeRedesign.pdb
+H:\Dilse Foundation new design\DilSeRedesign\DilSeRedesign\obj\Debug\DilSeRedesign.csprojResolveAssemblyReference.cache
+H:\Dilse Foundation new design\DilSeRedesign\DilSeRedesign\obj\Debug\DilSeRedesign.dll
+H:\Dilse Foundation new design\DilSeRedesign\DilSeRedesign\obj\Debug\DilSeRedesign.pdb
+D:\Dilse\DilSeRedesign\DilSeRedesign\DilSeRedesign\bin\DilSeRedesign.dll.config
+D:\Dilse\DilSeRedesign\DilSeRedesign\DilSeRedesign\bin\DilSeRedesign.dll
+D:\Dilse\DilSeRedesign\DilSeRedesign\DilSeRedesign\bin\DilSeRedesign.pdb
+D:\Dilse\DilSeRedesign\DilSeRedesign\DilSeRedesign\obj\Debug\DilSeRedesign.csprojResolveAssemblyReference.cache
+D:\Dilse\DilSeRedesign\DilSeRedesign\DilSeRedesign\obj\Debug\DilSeRedesign.dll
+D:\Dilse\DilSeRedesign\DilSeRedesign\DilSeRedesign\obj\Debug\DilSeRedesign.pdb
