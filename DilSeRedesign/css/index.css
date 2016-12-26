@@ -82,3 +82,38 @@ footer {
     color: white;
     padding:15px;
 }
+
+.profile-header-container{
+    margin: 0 auto;
+    text-align: center;
+}
+
+.profile-header-img {
+    padding: 54px;
+}
+
+.profile-header-img > img.img-circle {
+    width: 150px;
+    height: 150px;
+    border: 2px solid #F05F40;
+}
+
+.profile-header {
+    margin-top: 43px;
+}
+
+/**
+ * Ranking component
+ */
+.rank-label-container {
+    margin-top: -19px;
+    /* z-index: 1000; */
+    text-align: center;
+}
+
+.label.label-default.rank-label {
+    background-color: #000;
+    padding: 5px 10px 5px 10px;
+    border-radius: 27px;
+    
+}

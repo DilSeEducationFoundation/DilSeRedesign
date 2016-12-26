@@ -1,6 +1,6 @@
 (function($) {
     "use strict"; // Start of use strict
-
+    
     // jQuery for page scrolling feature - requires jQuery Easing plugin
     $('a.page-scroll').bind('click', function(event) {
         var $anchor = $(this);
@@ -174,17 +174,5 @@
 
                 // Get the BootstrapValidator instance
                 var bv = $form.data('bootstrapValidator');
-
-                // Use Ajax to submit form data
-                $.post($form.attr('action'), $form.serialize(), function (result) {
-                    console.log(result);
-                }, 'json');
-            });
-   
-        //$('.scroll-top').on('click', function (event) {
-        //    event.preventDefault();
-        //    $('html, body').animate({ scrollTop: 0 }, 'slow');
-        //});
-
-
+                });
 })(jQuery); // End of use strict
