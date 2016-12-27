@@ -17,6 +17,9 @@ margin-bottom: 20px;
 #mainNav.navbar-default.affix {
     background-color:#808080;
 }
+#page-top #mainNav.navbar-default .nav > li.active > a, #page-top #mainNav.navbar-default .nav > li.active > a:focus, #page-top #mainNav.navbar-default.affix .nav > li > a:hover, #page-top #mainNav.navbar-default.affix .nav > li > a:focus:hover {
+color: #6DB9DF!important;
+}
 
 #logolink {
     display: block;
@@ -172,7 +175,12 @@ margin:0;
 	color: #fff
 }
 hr {
-    border-color:#00BFFF;
+    border-color:#6DB9DF;
+}
+
+.btn-transparent:hover {
+    background-color: #6DB9DF;
+    border: 2px solid #fff;
 }
 /*press release*/
 #dilsePressRelease img {
@@ -221,8 +229,8 @@ background-size:100% auto;
 
 }
 .portfolio_description {
-    top:30%;    
-    left:10%;
+    top:40%;    
+    left:15%;
     position: absolute;
     color: #fff;
     display:block;
@@ -254,4 +262,10 @@ background-size:100% auto;
 #missionStatement {
 font-size:24px;
 padding-bottom:20px;
+}
+.lightBlue {
+color: #6DB9DF;
+}
+#ContributionType .checkbox {
+padding-bottom:10px;
 }
