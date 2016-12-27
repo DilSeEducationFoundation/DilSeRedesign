@@ -15,10 +15,13 @@ font-family: "Segoe UI";
 margin-bottom: 20px;
 }
 #mainNav.navbar-default.affix {
-    background-color:#808080;
+    background-color:#222;
 }
-#page-top #mainNav.navbar-default .nav > li.active > a, #page-top #mainNav.navbar-default .nav > li.active > a:focus, #page-top #mainNav.navbar-default.affix .nav > li > a:hover, #page-top #mainNav.navbar-default.affix .nav > li > a:focus:hover {
-color: #6DB9DF!important;
+#page-top #mainNav.navbar-default .nav > li > a:hover, #page-top #mainNav.navbar-default .nav > li > a:focus:hover, #page-top #mainNav.navbar-default.affix .nav > li > a:focus, #page-top #mainNav.navbar-default .nav > li.active > a,#page-top #mainNav.navbar-default .nav > li.active > a:focus, #page-top #mainNav.navbar-default.affix .nav > li > a:hover, #page-top #mainNav.navbar-default.affix .nav > li > a:focus:hover {
+color: #6DB9DF !important;
+}
+#page-top #mainNav.navbar-default.affix .nav > li > a {
+color: #fff;
 }
 
 #logolink {
@@ -169,19 +172,21 @@ margin:0;
 	display: none;
 }
 #priorities a {
-	color: #fff
+	color: #6DB9DF
 }
 #priorities a:visited {
-	color: #fff
+	color: #6DB9DF
 }
 hr {
     border-color:#6DB9DF;
 }
 
-.btn-transparent:hover {
+.btn-transparent:hover, .btn-transparent:focus, .btn-transparent.focus, .btn-transparent:active, .btn-transparent.active, .open > .dropdown-toggle.btn-transparent {
     background-color: #6DB9DF;
     border: 2px solid #fff;
 }
+
+
 /*press release*/
 #dilsePressRelease img {
 width:100%;
@@ -268,4 +273,8 @@ color: #6DB9DF;
 }
 #ContributionType .checkbox {
 padding-bottom:10px;
+}
+#btnSendMail {
+color: #222;
+border: 2px solid #222;
 }
